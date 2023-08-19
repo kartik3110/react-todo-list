@@ -1,8 +1,19 @@
-# React + Vite
+# Todo List
+A simple todo list webApp that allows users to add, view, mark as done and delete todos. The todos are saved on local storage.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Built With
+* HTML & CSS
+* Javascript
+* React.js
+* Material UI
 
-Currently, two official plugins are available:
+### Features
+* Show tasks list
+* Add new task
+* Complete task
+* Delete task
+* Save on local storage
+* Responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
